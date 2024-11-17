@@ -1,1 +1,1 @@
-bug-1 fixed
+bug-1 fixedadded new line
